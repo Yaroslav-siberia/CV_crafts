@@ -18,7 +18,6 @@
 
 <p align="left">
   <img src="https://github.com/Yaroslav-siberia/CV_crafts/blob/main/colour_recognition/img/1.png">
-</p>
 <p align="right">
   <img src="https://github.com/Yaroslav-siberia/CV_crafts/blob/main/colour_recognition/img/2.png">
 </p>
